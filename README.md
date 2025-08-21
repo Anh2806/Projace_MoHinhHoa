@@ -27,6 +27,7 @@ Trong quá trình thiết kế bộ điều khiển ở trên (ví dụ: LQR), t
 
 <img width="680" height="486" alt="image" src="https://github.com/user-attachments/assets/b71cdc03-5d6e-4bd6-a996-8fcc92b1910a" />
 ## Đáp ứng lực điều khiển u(t) trong vòng kín LQG khi thêm nhiễu đo
+
 <img width="616" height="344" alt="image" src="https://github.com/user-attachments/assets/b66d6b9d-01b0-4d2b-bd99-8236b201da51" />
 
 ## Đáp ứng góc θ (màu xanh) và vận tốc góc θ ̇ (màu đỏ) theo thời gian cho vòng kín LQG với nhiễu đo
