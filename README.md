@@ -21,6 +21,7 @@ Hệ thống con lắc ngược là một ví dụ tiêu biểu về các hệ t
 
 ## THIẾT KẾ BỘ LỌC KALMAN
 Trong quá trình thiết kế bộ điều khiển ở trên (ví dụ: LQR), ta đã giả định rằng toàn bộ trạng thái của hệ thống đều có thể đo lường chính xác. Tuy nhiên, trong thực tế, giả định này không hoàn toàn đúng do sự tồn tại của nhiễu hệ thống và nhiễu đo lường. Các nhiễu này phát sinh từ các yếu tố như nhiễu bên ngoài, sai số cảm biến, lượng tử hóa tín hiệu và điều kiện môi trường.
+
 <img width="532" height="283" alt="image" src="https://github.com/user-attachments/assets/f90d092b-7e9a-4937-bf4b-f5f0c194350a" />
 
 ## THIẾT KẾ BỘ ĐIỀU KHIỂN LQG
