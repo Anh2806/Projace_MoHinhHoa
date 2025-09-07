@@ -1,5 +1,9 @@
-##Inverted Pendulum
+
+#Inverted Pendulum
 Hệ thống con lắc ngược là một ví dụ tiêu biểu về các hệ thống bất ổn định, phi tuyến và thách thức lớn trong lĩnh vực điều khiển tự động. Mục tiêu của bài toán này là duy trì con lắc ở trạng thái cân bằng thẳng đứng thông qua việc điều khiển chuyển động của xe đẩy.
+
+##Link tài liệu
+https://youtube.com/playlist?list=PLtl_SLoamXzwDv_CyGEnKVHI51zbzBoa9&si=ggsYdifll_5ETfqC
 
 <img width="397" height="424" alt="image" src="https://github.com/user-attachments/assets/329ed39c-dd5a-416d-a3da-cf0a46449419" />
 
